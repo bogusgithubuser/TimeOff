@@ -53,7 +53,7 @@
     <Compile Include="VacationService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TimeOff.Design\TimeOff.ComponentModel.csproj">
+    <ProjectReference Include="..\TimeOff.ComponentModel\TimeOff.ComponentModel.csproj">
       <Project>{BAC39433-4E65-4946-BEE8-44FD63D501F4}</Project>
       <Name>TimeOff.ComponentModel</Name>
     </ProjectReference>

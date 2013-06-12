@@ -52,11 +52,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TimeOff.Design\TimeOff.ComponentModel.csproj">
+    <ProjectReference Include="..\TimeOff.ComponentModel\TimeOff.ComponentModel.csproj">
       <Project>{BAC39433-4E65-4946-BEE8-44FD63D501F4}</Project>
       <Name>TimeOff.ComponentModel</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TimeOff.Service\TimeOff.Services.csproj">
+    <ProjectReference Include="..\TimeOff.Services\TimeOff.Services.csproj">
       <Project>{12D04458-C119-4E0E-84CA-DFB2233C1A3F}</Project>
       <Name>TimeOff.Services</Name>
     </ProjectReference>

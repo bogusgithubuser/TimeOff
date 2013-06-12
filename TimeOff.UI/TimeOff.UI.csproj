@@ -120,7 +120,7 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TimeOff.Design\TimeOff.ComponentModel.csproj">
+    <ProjectReference Include="..\TimeOff.ComponentModel\TimeOff.ComponentModel.csproj">
       <Project>{bac39433-4e65-4946-bee8-44fd63d501f4}</Project>
       <Name>TimeOff.ComponentModel</Name>
     </ProjectReference>

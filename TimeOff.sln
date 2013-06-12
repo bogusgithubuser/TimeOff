@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeOff.ComponentModel", "TimeOff.Design\TimeOff.ComponentModel.csproj", "{BAC39433-4E65-4946-BEE8-44FD63D501F4}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeOff.ComponentModel", "TimeOff.ComponentModel\TimeOff.ComponentModel.csproj", "{BAC39433-4E65-4946-BEE8-44FD63D501F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeOff.Services", "TimeOff.Service\TimeOff.Services.csproj", "{12D04458-C119-4E0E-84CA-DFB2233C1A3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeOff.Services", "TimeOff.Services\TimeOff.Services.csproj", "{12D04458-C119-4E0E-84CA-DFB2233C1A3F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeOff.UI", "TimeOff.UI\TimeOff.UI.csproj", "{2F314CD6-76F5-4E39-8A45-F8A9E22B59F6}"
 EndProject
@@ -15,18 +15,18 @@ Global
 		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 		SccTeamFoundationServer = https://stancumihai.visualstudio.com/defaultcollection
 		SccLocalPath0 = .
-		SccProjectUniqueName1 = TimeOff.Service\\TimeOff.Services.csproj
-		SccProjectName1 = TimeOff.Service
-		SccLocalPath1 = TimeOff.Service
-		SccProjectUniqueName2 = TimeOff.Services.Host\\TimeOff.Services.Host.csproj
-		SccProjectName2 = TimeOff.Services.Host
-		SccLocalPath2 = TimeOff.Services.Host
-		SccProjectUniqueName3 = TimeOff.UI\\TimeOff.UI.csproj
-		SccProjectName3 = TimeOff.UI
-		SccLocalPath3 = TimeOff.UI
-		SccProjectUniqueName4 = TimeOff.Design\\TimeOff.ComponentModel.csproj
-		SccProjectName4 = TimeOff.Design
-		SccLocalPath4 = TimeOff.Design
+		SccProjectUniqueName1 = TimeOff.Services.Host\\TimeOff.Services.Host.csproj
+		SccProjectName1 = TimeOff.Services.Host
+		SccLocalPath1 = TimeOff.Services.Host
+		SccProjectUniqueName2 = TimeOff.UI\\TimeOff.UI.csproj
+		SccProjectName2 = TimeOff.UI
+		SccLocalPath2 = TimeOff.UI
+		SccProjectUniqueName3 = TimeOff.ComponentModel\\TimeOff.ComponentModel.csproj
+		SccProjectName3 = TimeOff.ComponentModel
+		SccLocalPath3 = TimeOff.ComponentModel
+		SccProjectUniqueName4 = TimeOff.Services\\TimeOff.Services.csproj
+		SccProjectName4 = TimeOff.Services
+		SccLocalPath4 = TimeOff.Services
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
