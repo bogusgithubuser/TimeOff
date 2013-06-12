@@ -3,7 +3,7 @@ using System.ServiceModel;
 
 namespace TimeOff.ComponentModel
 {
-    [ServiceContract]
+    [ServiceContract(Namespace = "TimeOff")]
     public interface IVacationService
     {
         [OperationContract]

@@ -2,7 +2,7 @@
 
 namespace TimeOff.ComponentModel
 {
-    [ServiceContract]
+    [ServiceContract(Namespace = "TimeOff")]
     public interface IStaffService
     {
         [OperationContract]
